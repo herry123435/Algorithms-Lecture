@@ -1,1 +1,1 @@
-# Algorithms(Lecture)
+# Algorithms-Lecture
